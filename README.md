@@ -1,5 +1,5 @@
 ![Screenshot](header.png)
-<h1 align="center">Hi 👋, I'm Serdar Kaya</h1>
+
 
 
 <p align="left"> <a href="https://twitter.com/melodylier" target="blank"><img src="https://img.shields.io/twitter/follow/melodylier?logo=twitter&style=for-the-badge" alt="melodylier"  /></a> </p>
