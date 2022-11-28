@@ -4,11 +4,11 @@
 
 <p align="left"> <a href="https://twitter.com/melodylier" target="blank"><img src="https://img.shields.io/twitter/follow/melodylier?logo=twitter&style=for-the-badge" alt="melodylier"  /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript, c#**
+- 🌱 I’m currently learning: **JavaScript, c#**
 
-- 💬 Ask me about **Html,CSS,Bootstrap**
+- 💬 Ask me about: **Html,CSS,Bootstrap**
 
-- 📫 How to reach me **kserdark59@gmail.com**
+- 📫 How to reach me: **kserdark59@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
