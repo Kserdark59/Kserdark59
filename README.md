@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Serdar Kaya</h1>
-<p align="left"> <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="kserdark59" /> </p>
+<p align="right"> <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" width="200" alt="kserdark59" /> </p>
 
-<p align="right"> <a href="https://twitter.com/melodylier" target="blank"><img src="https://img.shields.io/twitter/follow/melodylier?logo=twitter&style=for-the-badge" alt="melodylier" width="200" /></a> </p>
+<p align="left"> <a href="https://twitter.com/melodylier" target="blank"><img src="https://img.shields.io/twitter/follow/melodylier?logo=twitter&style=for-the-badge" alt="melodylier"  /></a> </p>
 
 - 🌱 I’m currently learning **JavaScript, c#**
 
